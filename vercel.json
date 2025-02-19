@@ -1,11 +1,11 @@
 {
   "builds": [
     {
-      "src": "package.json",
-      "use": "@vercel/node",
-      "config": {
-        "outputDirectory": "public"
-      }
+      "src": "public/**/*",
+      "use": "@vercel/static"
     }
-  ]
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
 }
