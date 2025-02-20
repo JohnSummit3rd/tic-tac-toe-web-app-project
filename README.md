@@ -5,7 +5,7 @@ An interactive, responsive Tic-Tac-Toe game built with [React.js](https://reactj
 🎮 **Play Now**: [Tic-Tac-Toe Live Demo](https://tic-tac-toe-web-app-project-1kiq.vercel.app/)
 
 ## 🖼️ Screenshots
-![Tic-Tac-Toe Screenshot](https://imgur.com/10v7uwp)
+![Tic-Tac-Toe Screenshot](https://imgur.com/a/aPfGuor)
 
 ## 🚀 Features
 - 🎭 **Instant win and draw dectection**  
